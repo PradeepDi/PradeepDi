@@ -18,7 +18,7 @@
 
 🔹 **ShopSmart App** – Mobile shopping assistant with AI image recognition  
 > TypeScript, React Native, Python, TensorFlow, Supabase  
-Built for my undergraduate research project — uses AI to detect products from images, compares prices across stores, locates nearby shops, and tracks budgets.
+Built for my undergraduate research project uses AI to detect products from images, compares prices across stores, locates nearby shops, and tracks budgets.
 
 🔹 **Rivers Edge Villa Web App** – Full-stack hospitality management system  
 > React.js, Node.js, Express, MongoDB  
