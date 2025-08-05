@@ -36,10 +36,6 @@ Showcased real-time data flow, virtual identity, and game state handling.
 > Java, JSP, JavaScript  
 Enabled booking, schedule management, and train search functionalities.
 
-🔹 **Libro Library System** – Book reservation platform  
-> PHP, HTML, JS  
-Handled inventory tracking, reservations, and user sessions.
-
 ---
 
 ## 📌 Currently Exploring
